@@ -11,7 +11,7 @@ export default function Home() {
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Своим поступком ты предал меня, я не знаю как ты мог пойти на такой
-            поступок..
+            поступок...
           </p>
         </div>
       </main>
