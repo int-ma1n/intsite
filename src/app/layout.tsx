@@ -16,6 +16,28 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "int_ma1n",
   description: "Великий сайт int_ma1n",
+  openGraph: {
+    title: "int_ma1n",
+    description: "Великий сайт int_ma1n",
+    url: "https://intma1n.xyz",
+    siteName: "int_ma1n",
+    images: [
+      {
+        url: "https://i.pinimg.com/736x/89/00/ab/8900ab03924161378bf8473802809b02.jpg",
+        width: 1200,
+        height: 630,
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "int_ma1n",
+    description: "Великий сайт int_ma1n",
+    images: [
+      "https://i.pinimg.com/736x/89/00/ab/8900ab03924161378bf8473802809b02.jpg",
+    ],
+  },
 };
 
 export default function RootLayout({
