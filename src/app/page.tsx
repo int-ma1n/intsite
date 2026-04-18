@@ -32,7 +32,7 @@ export default function Home() {
           <div className="relative -mt-16 mb-4">
             <div className="relative w-40 h-40">
               <img
-                src="https://cdn.discordapp.com/avatars/1004487778630914182/18e653cca00d936c403f95d6c9814ac6.webp?size=512"
+                src="https://cdn.discordapp.com/avatars/1004487778630914182/18e653cca00d936c403f95d6c9814ac6.png?size=512"
                 alt="int_ma1n"
                 className="w-full h-full rounded-full border-4 border-zinc-950 object-cover shadow-2xl"
               />
